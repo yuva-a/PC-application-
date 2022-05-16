@@ -1,0 +1,10 @@
+Grid size 100x100
+INPUT FORMAT k , r , xo , yo
+k = number of food blocks
+r = radius of food findings 
+xo = start coordinates x
+yo = start coordinates y
+
+OUTPUT FORMAT
+(a,b)->eaten -- if the being has eaten at (a,b)
+(a,b) -- if the being didnt eat at (a,b) 
