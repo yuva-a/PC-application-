@@ -1,0 +1,8 @@
+input format a,b,c
+a = number of a's at start
+b = number of b's at start
+c = number of c's at start
+
+ouput format 
+number of A,B,C's after each 
+round and at final which race is winner eeeeeeee
